@@ -15,7 +15,7 @@ console.log(n);
 ***
 
 ```
-11
+42
 ```
 
 # methods
