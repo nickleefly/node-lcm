@@ -3,6 +3,7 @@
 Compute the least common multiple using
 [Euclid's algorithm](http://en.wikipedia.org/wiki/Euclidean_algorithm).
 
+[![Build Status](https://travis-ci.org/nickleefly/node-lcm.svg?branch=master)](https://travis-ci.org/nickleefly/node-lcm)
 
 # example
 
