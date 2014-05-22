@@ -1,6 +1,6 @@
 {
   "name" : "lcm",
-  "version" : "0.0.2",
+  "version" : "0.0.3",
   "description" : "compute the least common multiple using Euclidean algorithm",
   "main": "index.js",
   "directories": {
